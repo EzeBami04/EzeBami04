@@ -20,7 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
 </div>
 ---
-###  Recent Projects
+###  
+Recent Projects
 - **Unified Influencer Discovery Pipeline**  
   Automated cross-platform influencer discovery using Google Search, Playwright, Facebook/Instagram Graph API, and TikTok scraping. Includes validation, engagement metrics, and MySQL storage.
 
