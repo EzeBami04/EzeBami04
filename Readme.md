@@ -20,15 +20,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
 </div>
 ---
-###  
 Recent Projects
-- **Unified Influencer Discovery Pipeline**  
+- Unified Influencer Discovery Pipeline
   Automated cross-platform influencer discovery using Google Search, Playwright, Facebook/Instagram Graph API, and TikTok scraping. Includes validation, engagement metrics, and MySQL storage.
 
-- **Product Recommendations**  
+-  Product Recommendations
   Built a data lake integrating Ecommerce Product using AI modules and stored embeddings using Qdrant vectordatabase. Orchestrated with Airflow.
 
-- **Real Estate Data Model (German Market)**  
+- Real Estate Data Model (German Market)
   Designed normalized schema for contacts, contracts, properties, and service providers. Optimized for reporting and BI.
 
 - **Portfolio ETL Pipeline (API → PostgreSQL)**  
