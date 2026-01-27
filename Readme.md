@@ -46,7 +46,7 @@ Recent Projects
 ###
 
 <div align="center">
-  <a href="linkedin.com/in/ezekiel-sanmabo-42ab8118a" target="_blank">
+  <a href="https://www.linkedin.com/in/ezekiel-sanmabo-42ab8118a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=connect&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/EzekielOmobami1" target="_blank">
