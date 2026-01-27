@@ -23,8 +23,15 @@
 ###
 ---
 Recent Projects
+- Manufacturing API integration(Proshop)
+    created a production ready project that integrate proshop API and also create scripts using the introspection query to get fields within Proshop for developers.
+
+- IP intelligence.
+    Created a python deterministic flow that detects malware or threat from an IP address logging in to a system or service.
+
 - Unified Influencer Discovery Pipeline
   Automated cross-platform influencer discovery using Google Search, Playwright, Facebook/Instagram Graph API, and TikTok scraping. Includes validation, engagement metrics, and MySQL storage.
+
 
 -  Product Recommendations
   Built a data lake integrating Ecommerce Product using AI modules and stored embeddings using Qdrant vectordatabase. Orchestrated with Airflow.
@@ -33,7 +40,7 @@ Recent Projects
   Designed normalized schema for contacts, contracts, properties, and service providers. Optimized for reporting and BI.
 
 - **Portfolio ETL Pipeline (API → PostgreSQL)**  
-  Created a production-ready ETL script with UUID tracking, schema validation, and upserts for consistent data syncing.
+  Created a production-ready ETL script from open source Isreal motorist data with millions rows ingested with UUID tracking, schema validation, and upserts for consistent data syncing.
 
 ---
 ###
