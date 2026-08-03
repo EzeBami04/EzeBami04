@@ -23,6 +23,8 @@
 ###
 ---
 Recent Projects
+- Self Managed Airflow deployed within google VM
+    Developed and deployed a self managed airflow instance with attached dbt project to be deployed using a github CI within google VM
 - Manufacturing API integration(Proshop)
     created a production ready project that integrate proshop API and also create scripts using the introspection query to get fields within Proshop for developers.
 
