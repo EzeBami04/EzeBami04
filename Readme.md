@@ -54,7 +54,7 @@ Recent Projects
   <a href="https://x.com/EzekielOmobami1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=follow&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://www.youtube.com/@bam_data_dev" target="_blank">
+  <a href="https://www.youtube.com/@bami_dataguy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=subscribe&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
